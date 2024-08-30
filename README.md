@@ -1,4 +1,4 @@
-# CR7GPT (Chatgpt Clone)
+# CR7GPT (Chatgpt Clone) Frontend
 
 This provides a minimal setup for building an admin console frontend to manage sales using React and Vite. 
 
