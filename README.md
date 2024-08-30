@@ -11,7 +11,7 @@ To get started with the admin console frontend, follow these steps:
    Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/ar3hma786/karmatest-frontend.git
+git clone https://github.com/ar3hma786/cr7gpt-frontend.git
 ```
 
 2. **Navigate to the project directory:**
